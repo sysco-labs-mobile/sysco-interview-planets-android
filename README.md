@@ -5,10 +5,10 @@ _A long time ago in a galaxy far far away..._
 
 ### Objectives
 
-* Using the Star Wars API https://swapi.dev/, make a request to get all planets. You can find the API documentation [here](https://swapi.dev/documentation).
+* Using the Star Wars API [https://swapi.dev/], make a request to get all planets. You can find the API documentation [here](https://swapi.dev/documentation).
 * Display planets in a scrollable list with Planet Name (`name`) and Climate (`climate`).
 * Open a planet details pane when clicking on a planet in the list. On this page display the Planet Name (`name`), Orbital Period (`orbital_period`), and Gravity (`gravity`).
-* _Optional if time permitting:_ Add icons for the planets on the cards using http://picsum.photos for sample images
+* _Optional if time permitting:_ Add icons for the planets on the cards using [http://picsum.photos] for sample images
 
 ### Guidelines
 
